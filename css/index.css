@@ -17,15 +17,15 @@
 .cmflame{
     position: absolute;
     top: 15%;
-    left: 5.05%;
-    width: 10%;
+    left: 5.075%;
+    width: 9.85%;
     height: auto;
 }
 
 .cm1{
     position: absolute;
     top: 13%;
-    left: 8.5%;
+    left: 8.95%;
     width: 5%;
     height: auto;
 }
@@ -33,7 +33,7 @@
 .cm2{
     position: absolute;
     top: 21%;
-    left: 1%;
+    left: 2%;
     width: 5%;
     height: auto;
 }
